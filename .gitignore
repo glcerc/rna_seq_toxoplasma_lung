@@ -1,0 +1,19 @@
+# Ignore large data files and logs
+# Raw Data and Log Files
+*.fastq.gz
+*.fq.gz
+*.log
+logs/
+data/
+results/
+resources/*.fa
+resources/*.fasta
+resources/*.gz
+resources/*.gtf
+
+# Alignment and Index Files
+*.sam
+*.bam
+*.cram
+*.bai
+*.crai
