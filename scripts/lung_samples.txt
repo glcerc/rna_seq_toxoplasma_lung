@@ -1,0 +1,15 @@
+data/raw_data/SRR7821918_1.fastq.gz
+data/raw_data/SRR7821919_1.fastq.gz
+data/raw_data/SRR7821920_1.fastq.gz
+data/raw_data/SRR7821921_1.fastq.gz
+data/raw_data/SRR7821922_1.fastq.gz
+data/raw_data/SRR7821923_1.fastq.gz
+data/raw_data/SRR7821924_1.fastq.gz
+data/raw_data/SRR7821925_1.fastq.gz
+data/raw_data/SRR7821927_1.fastq.gz
+data/raw_data/SRR7821937_1.fastq.gz
+data/raw_data/SRR7821938_1.fastq.gz
+data/raw_data/SRR7821939_1.fastq.gz
+data/raw_data/SRR7821940_1.fastq.gz
+data/raw_data/SRR7821941_1.fastq.gz
+data/raw_data/SRR7821942_1.fastq.gz
