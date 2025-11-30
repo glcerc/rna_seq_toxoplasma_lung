@@ -2,7 +2,7 @@
 # -----------------------------------------------------------------------
 # SLURM Settings
 # -----------------------------------------------------------------------
-#SBATCH --job-name=multiqc_before_trim
+#SBATCH --job-name=multiqc
 #SBATCH --time=00:30:00                 # 30 minutes
 #SBATCH --cpus-per-task=1
 #SBATCH --mem=2000M                     # 2GB RAM
@@ -25,7 +25,7 @@
 # This is the correct container path you found:
 CONTAINER="/containers/apptainer/multiqc-1.19.sif"
 FASTQC_DIR="results/01_fastqc_output"
-MULTIQC_DIR="results/01_multiqc_before_trim"
+MULTIQC_DIR="results/01_multiqc"
 
 # Create output directory
 mkdir -p "$MULTIQC_DIR"
